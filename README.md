@@ -1,4 +1,4 @@
-<h1>Workshop MySQL</h1>
+<h1>Workshop H2</h1>
 
 > Status: Completo ✔️
 
@@ -89,12 +89,12 @@
   <tr>
     <td>Java</td>
     <td>Spring Boot</td>
-    <td> MySQL</td>
+    <td>H2</td>
   </tr>
   <tr>
     <td>17.0</td>
     <td>3.1.1</td>
-    <td>8.0</td>
+    <td>2.1.214</td>
   </tr>
 </table>
 
